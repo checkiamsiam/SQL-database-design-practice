@@ -1,1 +1,1 @@
-SQL-database-design-practice
+SQL database design practice (ER Diagram)
